@@ -1,3 +1,42 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [SEO of Today, Tomorrow and Beyond](#seo-of-today-tomorrow-and-beyond)
+  - [Core Web Vitals](#core-web-vitals)
+    - [Real-World Experience Metrics](#real-world-experience-metrics)
+    - [Impact](#impact)
+    - [Google Lighthouse](#google-lighthouse)
+  - [EAT & YMYL (Your Money, Your Life)](#eat--ymyl-your-money-your-life)
+    - [YMYL](#ymyl)
+    - [E.A.T](#eat)
+      - [Expertise](#expertise)
+      - [Authority](#authority)
+      - [Trust](#trust)
+    - [Google Evaluations](#google-evaluations)
+  - [Featured Snippets and Rich Snippets](#featured-snippets-and-rich-snippets)
+    - [Featured Snippets](#featured-snippets)
+      - [Pros](#pros)
+      - [Cons](#cons)
+      - [Impacts of CTR](#impacts-of-ctr)
+      - [Click and traffic](#click-and-traffic)
+      - [Though Leadership and Branding](#though-leadership-and-branding)
+    - [Rich Snippets/Results](#rich-snippetsresults)
+      - [Schema](#schema)
+  - [BERT (2019)](#bert-2019)
+    - [Specifics](#specifics)
+    - [Optimizing for BERT](#optimizing-for-bert)
+    - [Impacts](#impacts)
+  - [Evolution of Keyword Optimization](#evolution-of-keyword-optimization)
+  - [Strengthening Your Keyword Strategy](#strengthening-your-keyword-strategy)
+    - [Topic Association](#topic-association)
+  - [How Does Branding Influence Website Rank?](#how-does-branding-influence-website-rank)
+    - [Branding](#branding)
+    - [How identify Brand?](#how-identify-brand)
+    - [How to do SEO for a Brand?](#how-to-do-seo-for-a-brand)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # SEO of Today, Tomorrow and Beyond
 
 ## Core Web Vitals
