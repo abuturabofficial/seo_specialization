@@ -262,7 +262,7 @@
 - Brand is becoming more Important to Google's relevancy Algorithm
 - SEOs must consider which factors separate brands from untrustworthy shops or spam sites
 
-### How identify Brand?
+### How to identify a Brand?
 
 - Active social media presence
 - contact information
@@ -276,7 +276,7 @@
 - Bidding on paid keywords for brand names is a strong signal
 - Brand keywords drive better conversions in paid search
 
-### How to do SEO for a Brand?
+### How to do SEO for a Brand Recognition?
 
 - Consider which external quality signals improve legitimacy
 - Value leads to quality signals
