@@ -1,5 +1,7 @@
 # Search Engine Optimization (SEO) Specialization
 
+## **Note:** I have moved to zettelkasten note taking method, and this repo will no longer be updated. Currently, I'm not sharing my zettelkasten vault publicly.
+
 Notes of the SEO courses offered by University of California, Davis.
 
 List of Courses: There are five coursers in the specialization, listed below.
