@@ -1,3 +1,6 @@
+# Archival Notice
+I have archived this repo and moved all my notes (new and old) to [wiki.sajidmahmood.com](https://wiki.sajidmahmood.com)
+
 # Search Engine Optimization (SEO) Specialization
 
 ## **Note:** I have moved to zettelkasten note taking method, and this repo will no longer be updated. Currently, I'm not sharing my zettelkasten vault publicly.
